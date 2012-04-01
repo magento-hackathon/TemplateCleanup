@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Hackathon_TemplateCleanup>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Hackathon_TemplateCleanup>
+    </modules>
+</config>

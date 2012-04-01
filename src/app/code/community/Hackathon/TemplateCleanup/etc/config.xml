@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hackathon_TemplateCleanup>
+            <version>0.0.1</version>
+        </Hackathon_TemplateCleanup>
+    </modules>
+    <global>
+        <models>
+            <hackathon_templatecleanup>
+                <class>Hackathon_TemplateCleanup_Model</class>
+            </hackathon_templatecleanup>
+        </models>
+        <helpers>
+            <hackathon_templatecleanup>
+                <class>Hackathon_TemplateCleanup_Helper</class>
+            </hackathon_templatecleanup>
+        </helpers>
+    </global>
+</config>
